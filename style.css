@@ -3,7 +3,7 @@
 :root{
     --cor-texto: #CDC1FF;
     --cor-fundo: #A594F9;
-    --cor-segundaria: #E5D9F2;
+    --cor-secundaria: #E5D9F2;
     --cor-clara: #F5EFFF;
     --font:"Playfair Display", serif;
 }
@@ -11,4 +11,9 @@ body{
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
     font-family: var(--font);
+}
+header{
+    background-color: var(--cor-secundaria);
+    text-align: center;
+
 }
