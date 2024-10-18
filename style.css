@@ -16,4 +16,8 @@ header{
     background-color: var(--cor-secundaria);
     text-align: center;
 
-}cor
+}h1{
+    font: size 2rem;
+    color: var(--cor-texto);
+    font-weight: 700;
+}
