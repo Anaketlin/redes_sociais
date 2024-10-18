@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 :root{
-    --cor-texto: #CDC1FF;
+    --cor-texto: #000000;
     --cor-fundo: #A594F9;
     --cor-secundaria: #E5D9F2;
     --cor-clara: #F5EFFF;
@@ -16,4 +16,4 @@ header{
     background-color: var(--cor-secundaria);
     text-align: center;
 
-}
+}cor
