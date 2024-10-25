@@ -16,4 +16,7 @@ async function vizualizarInformacoesGlobais() {
      horas conectadas.`
     console.log(paragrafo)
 
+    const container = document.getElementById('graficos-container')
+    container.appendChild(paragrafo)
 }
+visualizarInformacoesGlobais()
