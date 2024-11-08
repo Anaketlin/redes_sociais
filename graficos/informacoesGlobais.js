@@ -14,8 +14,7 @@ async function vizualizarInformacoesGlobais() {
      em média <span>${dados.tempo_medio}</span> /
      horas conectadas.`
     console.log(paragrafo)
-
     const container = document.getElementById('graficos-container')
     container.appendChild(paragrafo)
 }
-visualizarInformacoesGlobais()
+vizualizarInformacoesGlobais()
